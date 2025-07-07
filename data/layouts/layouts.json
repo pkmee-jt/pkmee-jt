@@ -4410,6 +4410,76 @@
       "secondary_tileset": "gTileset_MysteryEventsHouse",
       "border_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/border.bin",
       "blockdata_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/map.bin"
+    },
+    {
+      "id": "LAYOUT_NATSU_CITY",
+      "name": "NatsuCity_Layout",
+      "width": 84,
+      "height": 44,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Rustboro",
+      "border_filepath": "data/layouts/NatsuCity/border.bin",
+      "blockdata_filepath": "data/layouts/NatsuCity/map.bin"
+    },
+    {
+      "id": "LAYOUT_NATSU_PARK1",
+      "name": "NatsuPark1_Layout",
+      "width": 40,
+      "height": 18,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Rustboro",
+      "border_filepath": "data/layouts/NatsuPark1/border.bin",
+      "blockdata_filepath": "data/layouts/NatsuPark1/map.bin"
+    },
+    {
+      "id": "LAYOUT_NATSU_PARK2",
+      "name": "NatsuPark2_Layout",
+      "width": 37,
+      "height": 18,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Rustboro",
+      "border_filepath": "data/layouts/NatsuPark2/border.bin",
+      "blockdata_filepath": "data/layouts/NatsuPark2/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE1",
+      "name": "Route1_Layout",
+      "width": 34,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route1/border.bin",
+      "blockdata_filepath": "data/layouts/Route1/map.bin"
+    },
+    {
+      "id": "LAYOUT_NATSU_CITY_MART",
+      "name": "NatsuCity_Mart_Layout",
+      "width": 11,
+      "height": 8,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_Shop",
+      "border_filepath": "data/layouts/NatsuCity_Mart/border.bin",
+      "blockdata_filepath": "data/layouts/NatsuCity_Mart/map.bin"
+    },
+    {
+      "id": "LAYOUT_NATSU_CITY_POKEMON_CENTER_1F",
+      "name": "NatsuCity_PokemonCenter_1F_Layout",
+      "width": 14,
+      "height": 9,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_PokemonCenter",
+      "border_filepath": "data/layouts/NatsuCity_PokemonCenter_1F/border.bin",
+      "blockdata_filepath": "data/layouts/NatsuCity_PokemonCenter_1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_NATSU_CITY_HOUSE1",
+      "name": "NatsuCity_House1_Layout",
+      "width": 25,
+      "height": 25,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Rustboro",
+      "border_filepath": "data/layouts/NatsuCity_House1/border.bin",
+      "blockdata_filepath": "data/layouts/NatsuCity_House1/map.bin"
     }
   ]
 }

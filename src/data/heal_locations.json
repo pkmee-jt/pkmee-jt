@@ -131,6 +131,30 @@
       "map": "MAP_BATTLE_FRONTIER_OUTSIDE_EAST",
       "x": 3,
       "y": 52
+    },
+    {
+      "id": "HEAL_LOCATION_LAVARIDGE_TOWN_2",
+      "map": "MAP_LAVARIDGE_TOWN",
+      "x": 10,
+      "y": 10
+    },
+    {
+      "id": "HEAL_LOCATION_CITY1",
+      "map": "MAP_NATSU_CITY",
+      "x": 14,
+      "y": 12
+    },
+    {
+      "id": "HEAL_LOCATION_CITY_PARK",
+      "map": "MAP_NATSU_PARK1",
+      "x": 45,
+      "y": 16
+    },
+    {
+      "id": "HEAL_LOCATION_NATSU_CITY",
+      "map": "MAP_NATSU_CITY",
+      "x": 70,
+      "y": 11
     }
   ]
 }

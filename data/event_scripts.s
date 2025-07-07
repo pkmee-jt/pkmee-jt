@@ -1157,3 +1157,17 @@ EventScript_VsSeekerChargingDone::
 	.include "data/text/save.inc"
 	.include "data/text/birch_speech.inc"
 	.include "data/scripts/dexnav.inc"
+
+	.include "data/maps/NatsuCity/scripts.inc"
+
+	.include "data/maps/NatsuPark1/scripts.inc"
+
+	.include "data/maps/NatsuPark2/scripts.inc"
+
+	.include "data/maps/Route1/scripts.inc"
+
+	.include "data/maps/NatsuCity_Mart/scripts.inc"
+
+	.include "data/maps/NatsuCity_PokemonCenter_1F/scripts.inc"
+
+	.include "data/maps/NatsuCity_House1/scripts.inc"
