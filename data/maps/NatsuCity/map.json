@@ -58,6 +58,13 @@
       "elevation": 0,
       "dest_map": "MAP_NATSU_CITY_MART",
       "dest_warp_id": "0"
+    },
+    {
+      "x": 14,
+      "y": 11,
+      "elevation": 0,
+      "dest_map": "MAP_NATSU_CITY_HOUSE1",
+      "dest_warp_id": "0"
     }
   ],
   "coord_events": [],
