@@ -1171,3 +1171,5 @@ EventScript_VsSeekerChargingDone::
 	.include "data/maps/NatsuCity_PokemonCenter_1F/scripts.inc"
 
 	.include "data/maps/NatsuCity_House1/scripts.inc"
+
+	.include "data/maps/NatsuCity_House1_2F/scripts.inc"

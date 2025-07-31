@@ -4480,6 +4480,16 @@
       "secondary_tileset": "gTileset_Lab",
       "border_filepath": "data/layouts/NatsuCity_House1/border.bin",
       "blockdata_filepath": "data/layouts/NatsuCity_House1/map.bin"
+    },
+    {
+      "id": "LAYOUT_NATSU_CITY_HOUSE1_2F",
+      "name": "NatsuCity_House1_2F_Layout",
+      "width": 12,
+      "height": 12,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_Lab",
+      "border_filepath": "data/layouts/NatsuCity_House1_2F/border.bin",
+      "blockdata_filepath": "data/layouts/NatsuCity_House1_2F/map.bin"
     }
   ]
 }
